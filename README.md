@@ -1,6 +1,6 @@
 # algorithms
 
-A series of commonly found algorithms , data structures, and algorithmic techniques
+A series of commonly found algorithms, data structures, and algorithmic techniques
 
 ## Sliding Window
 
