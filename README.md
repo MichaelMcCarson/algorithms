@@ -116,6 +116,22 @@ Returns valid neighbors (adjacent cells that are within the grid bounds and not 
 
 Solves problems related to integers, such as finding primes or solving modular arithmetic problems.
 
+## Randomized Algorithms (Sampling)
+
+Randomized algorithms are designed to sample a random subset of k items from a larger dataset (or stream) of unknown size 𝑛, where 𝑛 is either unknown in advance or too large to fit into memory.
+
+Applications: It is commonly used in data streaming, large-scale data processing, and situations where it's impractical to store all data in memory.
+
+## Sorting Algorithms
+
+### Bubble Sort
+
+### Insertion Sort
+
+### Selection Sort
+
+### Merge Sort (see divide and conquer)
+
 ## Data Structures
 
 ### Heap
